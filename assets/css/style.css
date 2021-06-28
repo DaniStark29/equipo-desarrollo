@@ -1,0 +1,51 @@
+body {
+    background: #dfe6e9 !important;
+}
+
+.lenguaje {
+    background-color: #636e72 !important;
+}
+
+.framework {
+    background-color: #636e72 !important;
+}
+
+.developers {
+    background-color: #dfe6e9 !important;
+}
+
+.imagenes {
+    width: 200px;
+    height: 200px;
+}
+
+#textsn {
+    display: none;
+}
+
+#textss {
+    display: none;
+}
+
+#textj {
+    display: none;
+}
+
+.progress {
+    height: 2rem !important;
+    font-size: 1.75rem !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff !important;
+    background-color: #6c757d !important;
+}
+
+a:hover {
+    color: #fff !important;
+}
+
+a {
+    color: #6c757d !important;
+}
